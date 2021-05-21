@@ -1,7 +1,7 @@
-Team 43:
-203050028 - Apoorva Nunna 
-203050065 - Niteesh Kumar
-203050121 - Kunal Verma
+Team 43:<br />
+203050028 - Apoorva Nunna <br />
+203050065 - Niteesh Kumar <br />
+203050121 - Kunal Verma<br />
 
 
 1) download the requirements and all the dependecies from requirements.txt
